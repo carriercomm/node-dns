@@ -1,4 +1,4 @@
-[![Build Status](https://secure.travis-ci.org/tjfontaine/node-dns.png)](http://travis-ci.org/tjfontaine/node-dns)
+*This branch exists so that [DNSChain](https://github.com/okTurtles/dnschain) servers can immediately benefit from new features instead of having to wait for them to make it back into the official repo.*
 
 native-dns -- A replacement DNS stack for node.js
 =================================================

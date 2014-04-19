@@ -25,8 +25,8 @@
   },
   "dependencies": {
     "ipaddr.js": ">= 0.1.1",
-    "native-dns-cache": ">= 0.0.1",
-    "native-dns-packet": ">= 0.0.4"
+    "native-dns-cache": "git+https://github.com/okTurtles/native-dns-cache.git#8714196bb9223cc9a4064a4fddf9e82ec50b7d4d",
+    "native-dns-packet": "git+https://github.com/okTurtles/native-dns-packet.git#307e77a47ebba57a5ae9118a284e916e5ebb305a"
   },
   "devDependencies": {
     "optimist": "",
